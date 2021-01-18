@@ -1,0 +1,56 @@
+.title{
+  text-align: center;
+}
+.detail{
+  margin-left: auto;
+}
+body{
+  background-color: "#424242";
+}
+#a1{
+  stroke-width:1;
+  stroke:black;
+  fill:white;
+}
+#a2{
+  stroke-width:1;
+  stroke:black;
+  fill:white;
+}
+#a3{
+  stroke-width:1;
+  stroke:black;
+  fill:white;
+}
+#a4{
+  stroke-width:1;
+  stroke:black;
+  fill:white;
+}
+#a5{
+  stroke-width:1;
+  stroke:black;
+  fill:white;
+}
+#a6{
+  stroke-width:1;
+  stroke:black;
+  fill:white;
+}
+#a7{
+  stroke-width:1;
+  stroke:black;
+  fill:white;
+}
+#a8{
+  stroke-width:1;
+  stroke:black;
+  fill:white;
+}
+div{
+  width : 60%;
+  margin: auto;
+}
+svg{
+  margin: 8px
+}
